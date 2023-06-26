@@ -1,0 +1,11 @@
+#box div {
+    background-color: goldenrod;
+    padding: 20px;
+    border: 10px solid powderblue;
+    margin: 10px;
+
+    width: 100px;
+    aspect-ratio: 10/3;
+    border-radius: 50%;
+    box-shadow: 10px 10px 5px fuchsia;
+} 
