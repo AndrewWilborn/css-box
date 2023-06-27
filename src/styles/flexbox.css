@@ -2,12 +2,11 @@
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
-    background-color: blue;
 }
 
 .flex-container div{
     width: 30%;
     border: 2px solid black;
-    background-color: red;
     flex-grow: 2;
+    background-color: red;
 }

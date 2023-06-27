@@ -1,0 +1,15 @@
+#transform .flex-container > div img{
+    width: 100%;
+}
+
+#transform .flex-container > div:nth-child(1){
+    transform:rotate(-30deg)
+}
+
+#transform .flex-container > div:nth-child(2){
+    transform:scale(0.7)
+}
+
+#transform .flex-container > div:nth-child(3){
+    transform:skew(30deg, 20deg)
+}
